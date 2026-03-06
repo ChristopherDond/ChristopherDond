@@ -1,6 +1,6 @@
 <div align="center">
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:2E86AB&height=200&section=header&text=Christopher%20Dondici&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Systems%20Analysis%20%26%20Development%20Student%20%7C%20Brazil%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=58&descSize=18" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Fullstack+Developer+in+progress+%F0%9F%9A%80;Web+%26+Desktop+Application+Builder;Database+Design+%26+SQL+Enthusiast;Always+learning%2C+always+building.)](https://git.io/typing-svg)
 
@@ -57,26 +57,41 @@ My focus is on writing clean, maintainable code and understanding how systems wo
 <tr>
 <td width="50%" valign="top">
 
-### 🐾 PetMatch
-> Web app for facilitating pet adoption
+### 🖥️ Portal ADS
+> Student Projects Portal — deployed & live
 
-Built with **HTML, CSS, JavaScript and JSON**, this project connects pets in need of a home with potential adopters through an intuitive and responsive interface.
+A fullstack web platform built with **Next.js, TypeScript and Prisma**, featuring authentication and a structured backend. Deployed on Vercel.
 
-**Stack:** `HTML` `CSS` `JavaScript` `JSON`
+**Stack:** `Next.js` `TypeScript` `Prisma` `Auth.js`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristopherDond/PetMatch)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristopherDond/portal-ads)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portal-ads-seven.vercel.app)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏢 CRM.Java
-> Customer Relationship Management System
+### 📊 CRM Pipeline Flow
+> Sales Pipeline Management Desktop App
 
-A base CRM system built with **Java**, focused on data persistence and client management. Implements core business logic for tracking customer interactions.
+A **JavaFX** desktop application with a fully interactive Kanban board, drag-and-drop, real-time stats and JSON persistence. Built with a clean **Model-Service-View** architecture using Maven.
 
-**Stack:** `Java` `OOP` `Data Persistence`
+**Stack:** `Java 21` `JavaFX` `Maven` `Gson`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristopherDond/CRM.Java)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristopherDond/CRM-Pipeline-Flow)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🐾 PetMatch
+> Web app for facilitating pet adoption
+
+Built with **HTML, CSS, JavaScript and JSON**, this project connects pets in need of a home with potential adopters through a clean and responsive interface.
+
+**Stack:** `HTML` `CSS` `JavaScript` `JSON`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristopherDond/PetMatch)
 
 </td>
 </tr>
