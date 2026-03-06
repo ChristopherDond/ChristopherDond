@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:2E86AB&height=200&section=header&text=Christopher%20Dondici&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Systems%20Analysis%20%26%20Development%20Student%20%7C%20Brazil%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=58&descSize=18" width="100%"/>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Fullstack+Developer+in+progress+%F0%9F%9A%80;Web+%26+Desktop+Application+Builder;Database+Design+%26+SQL+Enthusiast;Always+learning%2C+always+building.)](https://git.io/typing-svg)
 
@@ -65,7 +65,7 @@ A fullstack web platform built with **Next.js, TypeScript and Prisma**, featurin
 **Stack:** `Next.js` `TypeScript` `Prisma` `Auth.js`
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristopherDond/portal-ads)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portal-ads-seven.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portal-ads-dmqf.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
