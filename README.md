@@ -84,14 +84,14 @@ A **JavaFX** desktop application with a fully interactive Kanban board, drag-and
 <tr>
 <td colspan="2" valign="top">
 
-### 🐾 PetMatch
+### 🐾 PetConnectta
 > Web app for facilitating pet adoption
 
 Built with **HTML, CSS, JavaScript and JSON**, this project connects pets in need of a home with potential adopters through a clean and responsive interface.
 
 **Stack:** `HTML` `CSS` `JavaScript` `JSON`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristopherDond/PetMatch)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristopherDond/PetConnectta)
 
 </td>
 </tr>
