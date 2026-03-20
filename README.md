@@ -1,8 +1,6 @@
 <div align="center">
 
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Fullstack+Developer+in+progress+%F0%9F%9A%80;Web+%26+Desktop+Application+Builder;Database+Design+%26+SQL+Enthusiast;Always+learning%2C+always+building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=650&lines=Fullstack+Developer+in+progress+%F0%9F%9A%80;Web+%26+Desktop+Application+Builder;Database+Design+%26+SQL+Enthusiast;Always+learning%2C+always+building.)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,38 +12,31 @@ I'm a **Systems Analysis and Development student** from Brazil, passionate about
 
 My focus is on writing clean, maintainable code and understanding how systems work from the database layer up to the user interface. I enjoy tackling real-world problems and turning them into working applications.
 
-- 🎓 Studying **Systems Analysis and Development**
-- 🔨 Currently building: web applications with **Java** and **JavaScript**
-- 🧠 Deepening my knowledge in: **backend architecture, REST APIs & database modeling**
-- 💬 Ask me about: **SQL, Java, JavaScript, HTML/CSS**
+- 🎓 Studying **Systems Analysis and Development** at Senac
+- 🔨 Currently building: **TechRadar** (Python job market dashboard) & **VIRADA** (entrepreneurship portal for MEIs)
+- 🧠 Deepening my knowledge in: **fullstack architecture, REST APIs & cloud databases**
+- 💬 Ask me about: **React, Next.js, Java, Python, SQL, Supabase**
 - 🤝 Open to: collaborations, feedback and interesting dev challenges
-- 📍 Based in **Brazil**
+- 📍 Based in **Brazil 🇧🇷**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)](https://skillicons.dev)
 
 ### ⚙️ Backend & Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+[![Backend Skills](https://skillicons.dev/icons?i=java,python,nodejs)](https://skillicons.dev)
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
+### 🗄️ Databases & Cloud
+[![Database Skills](https://skillicons.dev/icons?i=mysql,supabase,postgres)](https://skillicons.dev)
 
 ### 🧰 Tools & Environment
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+[![Tool Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,figma,vercel)](https://skillicons.dev)
+
+### 📦 Frameworks & Libraries
+[![Framework Skills](https://skillicons.dev/icons?i=prisma,maven)](https://skillicons.dev)
 
 ---
 
@@ -60,9 +51,9 @@ My focus is on writing clean, maintainable code and understanding how systems wo
 ### 🖥️ Portal ADS
 > Student Projects Portal — deployed & live
 
-A fullstack web platform built with **Next.js, TypeScript and Prisma**, featuring authentication and a structured backend. Deployed on Vercel.
+A fullstack web platform built with **Next.js, TypeScript and Prisma**, featuring role-based authentication, admin panel and a structured backend. Deployed on Vercel.
 
-**Stack:** `Next.js` `TypeScript` `Prisma` `Auth.js`
+**Stack:** `Next.js` `TypeScript` `Prisma` `Auth.js` `Neon PostgreSQL`
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristopherDond/portal-ads)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portal-ads-dmqf.vercel.app/)
@@ -70,28 +61,41 @@ A fullstack web platform built with **Next.js, TypeScript and Prisma**, featurin
 </td>
 <td width="50%" valign="top">
 
-### 📊 CRM Pipeline Flow
-> Sales Pipeline Management Desktop App
+### ✅ TaskMaster
+> Gamified Productivity App — deployed & live
 
-A **JavaFX** desktop application with a fully interactive Kanban board, drag-and-drop, real-time stats and JSON persistence. Built with a clean **Model-Service-View** architecture using Maven.
+A fullstack productivity app with **streak tracking, gamification and bilingual (EN/PT) support**. Built with React, Vite and Supabase, animated with Framer Motion.
 
-**Stack:** `Java 21` `JavaFX` `Maven` `Gson`
+**Stack:** `React` `Vite` `Tailwind` `Supabase` `Framer Motion`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristopherDond/CRM-Pipeline-Flow)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristopherDond)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ChristopherDond)
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-### 🐾 PetConnectta
-> Web app for facilitating pet adoption
+### 📊 TechRadar
+> Job Market Intelligence Dashboard
 
-Built with **HTML, CSS, JavaScript and JSON**, this project connects pets in need of a home with potential adopters through a clean and responsive interface.
+A Python/Streamlit dashboard that scrapes job listings via Gupy, integrates with Supabase and features salary analysis, skill demand charts and employability scoring.
 
-**Stack:** `HTML` `CSS` `JavaScript` `JSON`
+**Stack:** `Python` `Streamlit` `Supabase` `Pandas`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristopherDond/PetConnectta)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristopherDond)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏗️ CRM Pipeline Flow
+> Sales Pipeline Management Desktop App
+
+A **JavaFX** desktop application with a fully interactive Kanban board, drag-and-drop, real-time stats and JSON persistence. Built with a clean **Model-Service-View** architecture.
+
+**Stack:** `Java 21` `JavaFX` `Maven` `Gson`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristopherDond/CRM-Pipeline-Flow)
 
 </td>
 </tr>
@@ -107,7 +111,7 @@ Built with **HTML, CSS, JavaScript and JSON**, this project connects pets in nee
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChristopherDond&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E86AB&icon_color=2E86AB&text_color=FFFFFF"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherDond&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E86AB&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherDond&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E86AB&text_color=FFFFFF"/>
 
 </div>
 
@@ -119,24 +123,13 @@ Built with **HTML, CSS, JavaScript and JSON**, this project connects pets in nee
 
 ---
 
-## 🧭 What I Focus On
-
-```text
-🏗️  Database Design & Modeling     ████████████░░░   80%
-🌐  Web Development (Front & Back)  ██████████░░░░░   65%
-🖥️  Desktop Applications            ████████░░░░░░░   55%
-🔌  API Integration                 ██████░░░░░░░░░   40%
-📊  SQL & Data Management           ████████████░░░   80%
-```
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christopher%20Dondici-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopherdondici)
 [![GitHub](https://img.shields.io/badge/GitHub-ChristopherDond-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristopherDond)
+[![Instagram](https://img.shields.io/badge/Instagram-@dondici__chris-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dondici_chris)
 
 </div>
 
