@@ -1,3 +1,9 @@
+<div align="right">
+
+[![PT-BR](https://img.shields.io/badge/lang-PT--BR-009C3B?style=for-the-badge&logo=googletranslate&logoColor=white)](./README.pt-br.md)
+
+</div>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=650&lines=Fullstack+Developer+in+progress+%F0%9F%9A%80;Web+%26+Desktop+Application+Builder;Database+Design+%26+SQL+Enthusiast;Always+learning%2C+always+building.)](https://git.io/typing-svg)
