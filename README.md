@@ -19,7 +19,7 @@ I'm a **Systems Analysis and Development student** from Brazil, passionate about
 My focus is on writing clean, maintainable code and understanding how systems work from the database layer up to the user interface. I enjoy tackling real-world problems and turning them into working applications.
 
 - 🎓 Studying **Systems Analysis and Development** at Senac
-- 🔨 Currently building: **TechRadar** (Python job market dashboard) & **VIRADA** (entrepreneurship portal for MEIs)
+- 🔨 Currently building: **TechRadar** (Python job market dashboard) & **VERTICE** (entrepreneurship portal for MEIs)
 - 🧠 Deepening my knowledge in: **fullstack architecture, REST APIs & cloud databases**
 - 💬 Ask me about: **React, Next.js, Java, Python, SQL, Supabase**
 - 🤝 Open to: collaborations, feedback and interesting dev challenges
