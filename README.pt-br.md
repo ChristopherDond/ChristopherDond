@@ -19,7 +19,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no Brasil, apaixonad
 Meu foco é escrever código limpo e de fácil manutenção, entendendo como os sistemas funcionam desde a camada de banco de dados até a interface do usuário. Gosto de encarar problemas reais e transformá-los em aplicações que funcionam de verdade.
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no Senac
-- 🔨 Atualmente construindo: **TechRadar** (dashboard de mercado de trabalho em Python) & **VIRADA** (portal de empreendedorismo para MEIs)
+- 🔨 Atualmente construindo: **TechRadar** (dashboard de mercado de trabalho em Python) & **VERTICE** (portal de empreendedorismo para MEIs)
 - 🧠 Aprofundando conhecimentos em: **arquitetura fullstack, APIs REST e bancos de dados em nuvem**
 - 💬 Me pergunte sobre: **React, Next.js, Java, Python, SQL, Supabase**
 - 🤝 Aberto a: colaborações, feedbacks e desafios interessantes de dev
