@@ -22,8 +22,6 @@ Gosto de transformar problemas reais em software que funciona: de **automações
 - 🏗️ Construindo apps fullstack com **Node.js + PostgreSQL** (back) e **Next.js/TypeScript** (front)
 - 📱 Explorando **Flutter (Dart)** e **Kotlin** para mobile
 - 🤖 Brincando com **Arduino & sistemas embarcados**
-- 🏆 1º lugar em feira de ciências com um produto tecnológico autoral (Creme Pagé)
-- 📍 Baseado no **Brasil 🇧🇷**
 
 ---
 
