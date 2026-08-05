@@ -22,8 +22,7 @@ I like turning real-world problems into working software: from **Python automati
 - 🏗️ Building fullstack apps with **Node.js + PostgreSQL** (back) and **Next.js/TypeScript** (front)
 - 📱 Exploring **Flutter (Dart)** and **Kotlin** for mobile
 - 🤖 Playing with **Arduino & embedded systems**
-- 🏆 1st place at a science fair with an original tech product (Creme Pagé)
-- 📍 Based in **Brazil 🇧🇷**
+
 
 ---
 
