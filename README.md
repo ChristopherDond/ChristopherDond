@@ -1,52 +1,52 @@
 <div align="right">
 
-[![PT-BR](https://img.shields.io/badge/lang-PT--BR-009C3B?style=for-the-badge&logo=googletranslate&logoColor=white)](./README.pt-br.md)
+[![EN](https://img.shields.io/badge/lang-EN-2E86AB?style=for-the-badge&logo=googletranslate&logoColor=white)](./README.en.md)
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=650&lines=Fullstack+Developer+in+progress+%F0%9F%9A%80;Web+%26+Desktop+Application+Builder;Database+Design+%26+SQL+Enthusiast;Always+learning%2C+always+building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=650&lines=Desenvolvedor+Fullstack+%F0%9F%9A%80;Python+%E2%80%A2+Node.js+%E2%80%A2+Next.js+%E2%80%A2+Flutter;Construindo+aplica%C3%A7%C3%B5es+completas+de+ponta+a+ponta;Sempre+aprendendo%2C+sempre+construindo.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre Mim
 
-I'm a **Systems Analysis and Development student** from Brazil, passionate about building functional, well-structured software for the web and desktop.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** (Senac — Taboão da Serra, Brasil) e desenvolvedor fullstack que constrói **aplicações completas de ponta a ponta** — autenticação, banco de dados e deploy — para web, mobile e sistemas embarcados.
 
-My focus is on writing clean, maintainable code and understanding how systems work from the database layer up to the user interface. I enjoy tackling real-world problems and turning them into working applications.
+Gosto de transformar problemas reais em software que funciona: de **automações em Python** e **APIs REST** a **apps mobile (Flutter/Kotlin)** e **projetos embarcados com Arduino**.
 
-- 🎓 Studying **Systems Analysis and Development** at Senac
-- 🔨 Currently building: **TechRadar** (Python job market dashboard) & **VERTICE** (entrepreneurship portal for MEIs)
-- 🧠 Deepening my knowledge in: **fullstack architecture, REST APIs & cloud databases**
-- 💬 Ask me about: **React, Next.js, Java, Python, SQL, Supabase**
-- 🤝 Open to: collaborations, feedback and interesting dev challenges
-- 📍 Based in **Brazil 🇧🇷**
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no Senac (ago/2025 – abr/2027)
+- 🏗️ Construindo apps fullstack com **Node.js + PostgreSQL** (back) e **Next.js/TypeScript** (front)
+- 📱 Explorando **Flutter (Dart)** e **Kotlin** para mobile
+- 🤖 Brincando com **Arduino & sistemas embarcados**
+- 🏆 1º lugar em feira de ciências com um produto tecnológico autoral (Creme Pagé)
+- 📍 Baseado no **Brasil 🇧🇷**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 ### 🌐 Frontend
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)](https://skillicons.dev)
 
-### ⚙️ Backend & Languages
-[![Backend Skills](https://skillicons.dev/icons?i=java,python,nodejs)](https://skillicons.dev)
+### ⚙️ Backend & Linguagens
+[![Backend Skills](https://skillicons.dev/icons?i=python,nodejs,java,kotlin,dart,flutter)](https://skillicons.dev)
 
-### 🗄️ Databases & Cloud
-[![Database Skills](https://skillicons.dev/icons?i=mysql,supabase,postgres)](https://skillicons.dev)
+### 🗄️ Bancos de Dados & Cloud
+[![Database Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,vercel)](https://skillicons.dev)
 
-### 🧰 Tools & Environment
-[![Tool Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,figma,vercel)](https://skillicons.dev)
+### 🧰 Ferramentas & Ambiente
+[![Tool Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,figma,arduino)](https://skillicons.dev)
 
-### 📦 Frameworks & Libraries
-[![Framework Skills](https://skillicons.dev/icons?i=prisma,maven)](https://skillicons.dev)
+### 📦 Frameworks & Bibliotecas
+[![Framework Skills](https://skillicons.dev/icons?i=express,prisma,maven)](https://skillicons.dev)
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projetos em Destaque
 
 <div align="center">
 
@@ -54,60 +54,61 @@ My focus is on writing clean, maintainable code and understanding how systems wo
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ Portal ADS
-> Student Projects Portal — deployed & live
+### 🤖 MCP-Generator
+> Ferramenta de IA — o repo com mais estrelas ⭐
 
-A fullstack web platform built with **Next.js, TypeScript and Prisma**, featuring role-based authentication, admin panel and a structured backend. Deployed on Vercel.
+Gera automaticamente **servidores MCP (Model Context Protocol)** a partir de prompts. Feito em TypeScript.
 
-**Stack:** `Next.js` `TypeScript` `Prisma` `Auth.js` `Neon PostgreSQL`
+**Stack:** `TypeScript` `MCP` `IA`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristopherDond/portal-ads)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portal-ads-dmqf.vercel.app/)
+[![Repositório](https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristopherDond/MCP-Generator)
 
 </td>
 <td width="50%" valign="top">
 
-### ✅ TaskMaster
-> Gamified Productivity App — deployed & live
+### 🟣 Vértice
+> Portal de empreendedorismo (Empreenda Senac)
 
-A fullstack productivity app with **streak tracking, gamification and bilingual (EN/PT) support**. Built with React, Vite and Supabase, animated with Framer Motion.
+Landing page + app web para MEIs com **13 seções funcionais**, publicado na Vercel. Next.js + TypeScript no front, Node.js + PostgreSQL no back.
 
-**Stack:** `React` `Vite` `Tailwind` `Supabase` `Framer Motion`
+**Stack:** `Next.js` `TypeScript` `Node.js` `PostgreSQL` `Vercel`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristopherDond)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ChristopherDond)
+[![Repositório](https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristopherDond/Vertice-LandingPage)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 TechRadar
-> Job Market Intelligence Dashboard
+### 📦 9router-python
+> SDK + CLI do gateway 9Router
 
-A Python/Streamlit dashboard that scrapes job listings via Gupy, integrates with Supabase and features salary analysis, skill demand charts and employability scoring.
+Um SDK e CLI em Python para interagir com o gateway local de IA — chat, embeddings, imagens e mais.
 
-**Stack:** `Python` `Streamlit` `Supabase` `Pandas`
+**Stack:** `Python` `SDK` `CLI` `HTTP API`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristopherDond)
+[![Repositório](https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristopherDond/9router-python)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏗️ CRM Pipeline Flow
-> Sales Pipeline Management Desktop App
+### 🖥️ Portal ADS
+> Portal de Projetos dos Alunos — publicado e online
 
-A **JavaFX** desktop application with a fully interactive Kanban board, drag-and-drop, real-time stats and JSON persistence. Built with a clean **Model-Service-View** architecture.
+Plataforma web fullstack com **Next.js, TypeScript e Prisma**, autenticação baseada em cargos, painel administrativo e backend estruturado. Publicado na Vercel.
 
-**Stack:** `Java 21` `JavaFX` `Maven` `Gson`
+**Stack:** `Next.js` `TypeScript` `Prisma` `Auth.js` `Neon PostgreSQL`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristopherDond/CRM-Pipeline-Flow)
+[![Repositório](https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristopherDond/portal-ads)
+[![Demo Online](https://img.shields.io/badge/Demo_Online-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portal-ads-dmqf.vercel.app/)
 
 </td>
 </tr>
 </table>
 
 </div>
+
+> ✨ Explore todos os **38 repositórios** — automações, apps mobile, jogos, integrações de API e mais: [github.com/ChristopherDond](https://github.com/ChristopherDond)
 
 ---
 
@@ -129,7 +130,7 @@ A **JavaFX** desktop application with a fully interactive Kanban board, drag-and
 
 ---
 
-## 📫 Let's Connect
+## 📫 Vamos Conectar
 
 <div align="center">
 
@@ -143,8 +144,8 @@ A **JavaFX** desktop application with a fully interactive Kanban board, drag-and
 
 <div align="center">
 
-> *"Code is the tool, but human impact is the goal.  
-> I don't just build systems — I build bridges to a more efficient and connected world."*
+> *"O código é a ferramenta, mas o impacto humano é o objetivo.  
+> Não construo apenas sistemas — construo pontes para um mundo mais eficiente e conectado."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86AB,100:1E3A5F&height=100&section=footer" width="100%"/>
 
